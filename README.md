@@ -1,5 +1,5 @@
-# Test-network-core-Wallet
-For the core wallet of the test network, all generated tokens cannot continue to be traded
+# Test-network-core-DAPP
+For the core DAPP of the test network, all generated tokens cannot continue to be traded
 It is a blockchain performance testing framework, which can be used to test different blockchain implementations. support
 fabric v1.0+
 sawtooth 1.0+
